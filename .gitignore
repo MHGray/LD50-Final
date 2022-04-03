@@ -33,6 +33,8 @@
 ExportedObj/
 .consulo/
 *.csproj
+*.jpeg
+*.jpg
 *.unityproj
 *.sln
 *.suo
@@ -46,7 +48,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-
+*.mp3
+*.png
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
